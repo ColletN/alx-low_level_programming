@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-tydchgcnjhngb 
-=======
 #include <stdio.h>
 /**
  * print_diagsums - prints the sum of the two diagonals of a square matrix
@@ -19,4 +16,3 @@ for (i = size - 1; i < (size * size - 1); i += size - 1)
 sumy += a[i];
 printf("%d, %d\n", sumx, sumy);
 }
->>>>>>> 3bafcedb2de48fca4e51615b70170f1ffd34713a
